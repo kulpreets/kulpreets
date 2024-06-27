@@ -1,6 +1,8 @@
 ## Hi there 👋
 LinkedIn https://www.linkedin.com/in/kulpreetsinghalagh/
 
+Working on updating my **portfolio**
+
 <!--
 **kulpreets/kulpreets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
